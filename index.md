@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# This is Dawid @tavit111 at gitHub
 
-You can use the [editor on GitHub](https://github.com/tavit111/tavit111.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Why this page exists?
+It was designed for test perpus only, beacuse Dawid is learnign to use how to mantain github projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What are my goals?
+- become more officient in git and github technology,
+- refresh my CSS skils,
+- get to the kyu 3 at JS in Cose wors,
+- finish my first project on formt end web app.
 
-### Markdown
+## My future programing goals:
+1. learn Node.js,
+2. get to kyu1 at code wors in JS,
+3. learn popular fond end librarys,
+4. learn SQL database system,
+5. write learnig apps for developers.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **Can I do it? Of course I can!**
 
-```markdown
-Syntax highlighted code block
+![inspirational shit](https://image.freepik.com/free-photo/blue-sky-background-texture-with-white-clouds_29332-909.jpg)
+>This is some ispirationa quots
+> -Dawid P.
 
-# Header 1
-## Header 2
-### Header 3
+## This is random table of the weather in Las Plamas at Canary Island
 
-- Bulleted
-- List
+Month | High / Low(°C) | Rain
+----- | ---------- | ---------
+May | 23° / 17° | 0 days
+June | 25° / 18° | 0 days
+July | 26° / 20° | 0 days
+August | 27° / 21° | 0 days
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### random JS code
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tavit111/tavit111.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+let money = 0;
+function makemoney(idea){
+  if(idea)
+    while(idea){
+      make++
+        }
+     else{
+       idea++
+      }
+  }
+  ```
