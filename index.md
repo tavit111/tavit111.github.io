@@ -4,10 +4,10 @@
 It was designed for test perpus only, beacuse Dawid is learnign to use how to mantain github projects.
 
 ## What are my goals?
-- become more officient in git and github technology,
-- refresh my CSS skils,
-- get to the kyu 3 at JS in Cose wors,
-- finish my first project on formt end web app.
+- [x] become more officient in git and github technology,
+- [ ] refresh my CSS skils,
+- [ ] get to the kyu 3 at JS in Cose wors,
+- [] finish my first project on formt end web app.
 
 ## My future programing goals:
 1. learn Node.js,
